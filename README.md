@@ -24,4 +24,5 @@ The project will be executed by completing the following tasks:
 4. Export Results to CSV.
 
 [Link to Blog post](https://medium.com/@victorbahlangene96/nlp-transformers-project-827f97476efa?source=friends_link&sk=dbe5b461588c9fbba048f4d91cb2e0ef)
+[Link to app](https://huggingface.co/spaces/victorbahlangene/NLP-News-Scraping-Summarization-Sentiment-App)
 
